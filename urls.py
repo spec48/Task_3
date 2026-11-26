@@ -1,0 +1,8 @@
+BASE_URL = 'https://qa-stellarburgers.education-services.ru/'
+RECOVERY_URL = f'{BASE_URL}forgot-password'
+RESET_URL = f'{BASE_URL}reset-password'
+PROFILE_URL = f'{BASE_URL}account/profile'
+ORDER_HISTORY_URL = f'{BASE_URL}account/order-history'
+LOGIN_URL = f'{BASE_URL}login'
+ORDER_FEED_URL = f'{BASE_URL}feed'
+USER_URL = 'api/auth/'

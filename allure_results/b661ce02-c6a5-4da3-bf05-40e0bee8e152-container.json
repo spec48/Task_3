@@ -1,0 +1,1 @@
+{"uuid": "1ba7e05c-b87a-48c3-8f72-1d07ceca70bf", "children": ["3fdaff92-9645-4f44-aa00-a82f50df1cb7"], "befores": [{"name": "profile_page", "status": "passed", "start": 1795608380320, "stop": 1795608380320}], "afters": [{"name": "profile_page::<lambda>", "start": 1795608384028}], "start": 1795608380320, "stop": 1795608384028}
