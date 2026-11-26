@@ -31,6 +31,7 @@ class MainPage(BasePage):
 
     @allure.step('Кликнуть на ингредиент')
     def click_to_ingredient(self, ingredient):
+        self.find_element(ingredient)
         self.click_element(ingredient)
 
     @allure.step('Получить название ингредиента')
